@@ -1,0 +1,9 @@
+{
+  "name": "covid19app",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "latest",
+    "mysql": "^2.18.1",
+    "python-shell": "^2.0.1"
+  }
+}
